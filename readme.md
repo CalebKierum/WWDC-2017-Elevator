@@ -6,7 +6,7 @@ It is a simple game where you serve as a bellhop moving the elevator up and down
 
 I am planning to release this to the app store after finding a game designer and artist willing to work on it.
 
-This game is wrapped in a playground so you will have to open it up in Xcode 8 to fully expereience it.
+This game is wrapped in a playground so you will have to open it up in Xcode 8 to fully experience it.
 
 ![Screenshot](https://i.imgur.com/fGaXZRHl.jpg)
 [Video of the game in action](https://www.youtube.com/watch?v=-_v-hexLHFk)
